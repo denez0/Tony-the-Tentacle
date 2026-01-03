@@ -71,6 +71,9 @@ Kills/ deaths get printed in the console, if you open the game in lovec.exe
 
 #### How to install and play
 
+Easiest way:
+download my_game.zip, unzip it, open Tony_the_Tentacle.exe.
+
 Full instructions may be found here:
 https://love2d.org/wiki/Game_Distribution
 
@@ -79,3 +82,4 @@ https://www.youtube.com/watch?v=h7II1fiaWKA
 
 Here's a good explanation as well:
 https://github.com/Dpbm/SnakeGame?tab=readme-ov-file#---how-to-run-
+
