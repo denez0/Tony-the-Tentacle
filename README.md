@@ -1,5 +1,8 @@
 # Tony the Tentacle
 
+<img width="784" height="591" alt="preview" src="https://github.com/user-attachments/assets/e822c4e4-1723-4166-bbb5-63a178910375" />
+
+
 #### Video Demo: https://www.youtube.com/watch?v=MYXQRostH4Y
 
 #### Description:
@@ -82,4 +85,5 @@ https://www.youtube.com/watch?v=h7II1fiaWKA
 
 Here's a good explanation as well:
 https://github.com/Dpbm/SnakeGame?tab=readme-ov-file#---how-to-run-
+
 
